@@ -59,7 +59,7 @@ I am passionate about creating modern, user-friendly web applications and contin
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: Add your LinkedIn profile here
+- 💼 LinkedIn: https://www.linkedin.com/in/munjith-munjith-773831421?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📧 Email: <a href="mailto:munjith.tech@gmail.com">munjith.tech@gmail.com</a>
 
 ---
